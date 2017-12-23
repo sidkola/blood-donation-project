@@ -1,0 +1,33 @@
+a.one:link {color: #8B0000}
+	a.one:visited {color: #8B0000}
+	a.one:hover {color: #ff0000}
+#customers
+{
+font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+width:100%;
+height:100%;
+border-collapse:collapse;
+font-family:"Monotype Corsiva";
+}
+#customers td, #customers th 
+{
+font-size:1em;
+border:1px double #8B0000;
+padding:3px 7px 2px 7px;
+}
+#customers th 
+{
+font-size:1.1em;
+text-align:left;
+padding-top:5px;
+padding-bottom:4px;
+background-color:#DC143C;
+color:#ffffff;
+
+}
+
+#customers tr.alt td 
+{
+color:#000000;
+background-color:#EAF2D3;
+}
